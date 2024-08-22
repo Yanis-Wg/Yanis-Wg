@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yanis-Wg&theme=highcontrast&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)
 
 ## 📈 Recent Projects
 
@@ -68,6 +69,12 @@ _This project allowed me to explore my creativity by studying various similar we
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Yanis-Wg&theme=darkhub&no-bg=true&no-frame=true)
 
+
+## 📈 Metrics
+
+![Metrics](https://metrics.lecoq.io/YourUsername?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FIstanbul)
+
+
 ## 🎉 Get In Touch
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/yaniswong04)
@@ -76,5 +83,7 @@ _This project allowed me to explore my creativity by studying various similar we
 I'm always open to collaborations and discussions. Feel free to reach out!
 
 ---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
 
 _This README was generated with ❤️ by Yanis WONG

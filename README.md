@@ -38,22 +38,31 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Barba.js](https://img.shields.io/badge/-Barba.js-333333?style=flat-square&logo=javascript&logoColor=white)
 ![Lenis](https://img.shields.io/badge/-Lenis-8C52FF?style=flat-square&logo=javascript&logoColor=white)
 
-## 🏆 GitHub Stats
+## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yanis-Wg&theme=highcontrast&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yanis-Wg&theme=highcontrast&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical)
 
 ## 📈 Recent Projects
 
-### 🔥 [Project 1](https://github.com/yourgithub/project1)
-_A brief description of what this project is about. Include key technologies, challenges solved, or any particular highlights._
+### 🔥 [My Portfolio](https://wong-yanis-portfolio.alwaysdata.net/)
+_This is a personal project. I already had an old portfolio, but it was too creative. This time, I wanted something more professional, less creative, but still aesthetic. That's why I chose a minimalist style for this one, with white as the main color. For the technology used, I decided to challenge myself and incorporate new technologies that I recently learned (GSAP, SCSS, LENIS, BARBA JS, Splitting JS) mixed with the basics (HTML, JS)._
 
-### 🌟 [Project 2](https://github.com/yourgithub/project2)
-_Another project with a focus on something cool you did, like integrating a new API, or a unique feature._
+### 🌟 [SUSHI.KO](https://github.com/yourgithub/project2)
 
-### 🧠 [Project 3](https://github.com/yourgithub/project3)
-_This project is about something particularly interesting or complex you tackled. Maybe it's a learning project, or something that pushed your skills to the next level._
+_The primary objective of this project was to design and develop an e-commerce website dedicated to selling sushi, utilizing the Angular framework to create a dynamic and responsive user experience. Our team, consisting of four skilled individuals, collaborated to bring this vision to life, focusing on creating a seamless user interface and a robust online platform._
+
+_To achieve our goals, we adopted a structured approach, ensuring that each phase of the project was meticulously planned and executed. This included careful consideration of the web design elements and the integration of a reliable database for smooth communication and data management. Each team member brought unique skills to the table, which contributed to the project's overall success._
+
+_During this project, I took on the responsibility of designing the entire user interface and user experience (UI/UX) using Figma, a leading design tool. My goal was to create an intuitive and visually appealing interface that would engage users and enhance their shopping experience. Following the design phase, I led the development of the website using Angular, ensuring that the final product was not only aesthetically pleasing but also fully functional and responsive. The use of Angular allowed us to build a modular and scalable application that can be easily maintained and expanded in the future._
+
+### 🧠 [ACF2L](https://github.com/yourgithub/project3)
+_In this project, our goal was to redesign an aviation website using Bootstrap. We had access to the resources of the old site and the freedom to modify as we wished, while respecting the site's content._
+
+_Working in a team of three people following the Agile method, I was responsible for designing the graphic charter, selecting images, designing the site mockup, and assisting the developer._
+
+_This project allowed me to explore my creativity by studying various similar websites to optimize our visual presentation. I also practiced web development with Bootstrap, integrating responsiveness when necessary. This experience was very rewarding in terms of teamwork, computer science, and web design._
 
 ## 🏆 GitHub Trophies
 

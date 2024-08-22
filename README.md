@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Yanis WONG
 
 [![Linkedin Badge](https://img.shields.io/badge/-YanisWONG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yaniswong04)
-[![Github Badge](https://img.shields.io/badge/-Yanis-WG-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/yourgithub/)
+[![Github Badge](https://img.shields.io/badge/-YanisWG-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/Yanis-Wg/)
 [![Website Badge](https://img.shields.io/badge/Website-Portfolio2024-green)](https://wong-yanis-portfolio.alwaysdata.net/)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating elegant solutions to complex problems. Let's build something amazing together!

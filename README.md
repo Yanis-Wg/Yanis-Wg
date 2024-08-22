@@ -72,7 +72,7 @@ _This project allowed me to explore my creativity by studying various similar we
 
 ## 📈 Metrics
 
-![Metrics](https://metrics.lecoq.io/YourUsername?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/Yanis-Wg?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FIstanbul)
 
 
 ## 🎉 Get In Touch
@@ -84,6 +84,6 @@ I'm always open to collaborations and discussions. Feel free to reach out!
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=Yanis-Wg&color=brightgreen)
 
 _This README was generated with ❤️ by Yanis WONG

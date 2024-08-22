@@ -46,10 +46,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📈 Recent Projects
 
-### 🔥 [My Portfolio](https://wong-yanis-portfolio.alwaysdata.net/)
+### 🔥 [MY PORTFOLIO 2024](https://wong-yanis-portfolio.alwaysdata.net/)
 _This is a personal project. I already had an old portfolio, but it was too creative. This time, I wanted something more professional, less creative, but still aesthetic. That's why I chose a minimalist style for this one, with white as the main color. For the technology used, I decided to challenge myself and incorporate new technologies that I recently learned (GSAP, SCSS, LENIS, BARBA JS, Splitting JS) mixed with the basics (HTML, JS)._
 
-### 🌟 [SUSHI.KO](https://github.com/yourgithub/project2)
+### 🌟 [SUSHI.KO](https://github.com/Raphi04/SAE_401)
 
 _The primary objective of this project was to design and develop an e-commerce website dedicated to selling sushi, utilizing the Angular framework to create a dynamic and responsive user experience. Our team, consisting of four skilled individuals, collaborated to bring this vision to life, focusing on creating a seamless user interface and a robust online platform._
 
@@ -57,7 +57,7 @@ _To achieve our goals, we adopted a structured approach, ensuring that each phas
 
 _During this project, I took on the responsibility of designing the entire user interface and user experience (UI/UX) using Figma, a leading design tool. My goal was to create an intuitive and visually appealing interface that would engage users and enhance their shopping experience. Following the design phase, I led the development of the website using Angular, ensuring that the final product was not only aesthetically pleasing but also fully functional and responsive. The use of Angular allowed us to build a modular and scalable application that can be easily maintained and expanded in the future._
 
-### 🧠 [ACF2L](https://github.com/yourgithub/project3)
+### 🧠 [ACF2L](https://github.com/Raphi04/SAE-301-303)
 _In this project, our goal was to redesign an aviation website using Bootstrap. We had access to the resources of the old site and the freedom to modify as we wished, while respecting the site's content._
 
 _Working in a team of three people following the Agile method, I was responsible for designing the graphic charter, selecting images, designing the site mockup, and assisting the developer._

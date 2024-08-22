@@ -37,6 +37,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![Barba.js](https://img.shields.io/badge/-Barba.js-333333?style=flat-square&logo=javascript&logoColor=white)
 ![Lenis](https://img.shields.io/badge/-Lenis-8C52FF?style=flat-square&logo=javascript&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-FF6C00?style=flat-square&logo=davinci-resolve&logoColor=white)
+
 
 ## 📊 GitHub Stats
 

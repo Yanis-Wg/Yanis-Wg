@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yanis-Wg&show_icons=true&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yanis-Wg&theme=highcontrast&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yanis-Wg&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanis-Wg&layout=compact&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yanis-Wg&theme=tokyo-night)
 
@@ -68,11 +68,6 @@ _This project allowed me to explore my creativity by studying various similar we
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Yanis-Wg&theme=darkhub&no-bg=true&no-frame=true)
-
-
-## 📈 Metrics
-
-![Metrics](https://metrics.lecoq.io/Yanis-WG?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FIstanbul)
 
 ## 🎉 Get In Touch
 

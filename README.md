@@ -72,8 +72,7 @@ _This project allowed me to explore my creativity by studying various similar we
 
 ## 📈 Metrics
 
-![Metrics](https://metrics.lecoq.io/Yanis-Wg?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FIstanbul)
-
+![Metrics](https://metrics.lecoq.io/Yanis-WG?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FIstanbul)
 
 ## 🎉 Get In Touch
 
